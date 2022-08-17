@@ -6,3 +6,4 @@
 /elpa
 /var
 *.elc
+/configuration.el
